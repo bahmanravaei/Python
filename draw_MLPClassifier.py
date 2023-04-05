@@ -1,5 +1,3 @@
-## Gist originally developed by @craffel and improved by @ljhuang2017
-
 import matplotlib.pyplot as plt
 import numpy as np
 
